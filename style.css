@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #01141c;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+p {
+    font-size: 30px;
+    color: #7e0f6a;
+}
+.fun-fact {
+    color: #7e0f6a;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 25px;
+    background-color: #fefefe;
+    color: rgb(0, 8, 255);
+    border-radius: 5px;
+}
+button:hover {
+    color: #01141c;
+    background-color: #00ff4c;
+}
